@@ -1,4 +1,12 @@
-# Starter Next/Hardhat Project
+# Cumulative table
+
+This project is a sample webpage to check the sum of n numbers.
+
+## Description
+
+In this project, we have created a cumulative table finder where it finds the sum of n numbers and displays the total . You can click on reset button to reset it to 0. This project is deployed on hardhat network.
+
+## Running the code
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +18,13 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Authors
+
+Rajiv C Gowda
+
+@rajivgowda17@gmail.com
+
+## License
+
+This project is UNLICENSED.
